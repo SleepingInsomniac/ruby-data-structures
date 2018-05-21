@@ -1,3 +1,5 @@
+require 'llstack'
+
 RSpec.describe LLStack do
 
   it 'pushes and pops' do
